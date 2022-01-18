@@ -12,4 +12,5 @@ struct Person{
     var age:Int
 }
 
-let person = Person(name: "Majed", age: 24)
+let person = Person(name: "Ahmed", age: 24)
+let newObj = Person(name: "Hamad", age: 25)
