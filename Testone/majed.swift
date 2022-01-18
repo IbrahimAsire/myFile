@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct Person{
+    var name:String
+    var age:Int
+}
+
+let person = Person(name: "Majed", age: 24)
