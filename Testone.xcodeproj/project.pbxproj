@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		844275BF2796EBC00014B610 /* majed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844275BE2796EBC00014B610 /* majed.swift */; };
 		A22C05A72796EA43005D9E93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22C05A62796EA43005D9E93 /* AppDelegate.swift */; };
 		A22C05A92796EA43005D9E93 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22C05A82796EA43005D9E93 /* SceneDelegate.swift */; };
 		A22C05AB2796EA43005D9E93 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22C05AA2796EA43005D9E93 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		844275BE2796EBC00014B610 /* majed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = majed.swift; sourceTree = "<group>"; };
 		A22C05A32796EA43005D9E93 /* Testone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Testone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A22C05A62796EA43005D9E93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A22C05A82796EA43005D9E93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				A22C05A62796EA43005D9E93 /* AppDelegate.swift */,
 				A22C05A82796EA43005D9E93 /* SceneDelegate.swift */,
 				A22C05AA2796EA43005D9E93 /* ViewController.swift */,
+				844275BE2796EBC00014B610 /* majed.swift */,
 				A22C05AC2796EA43005D9E93 /* Main.storyboard */,
 				A22C05AF2796EA46005D9E93 /* Assets.xcassets */,
 				A22C05B12796EA46005D9E93 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				A22C05AB2796EA43005D9E93 /* ViewController.swift in Sources */,
 				A22C05A72796EA43005D9E93 /* AppDelegate.swift in Sources */,
 				A22C05A92796EA43005D9E93 /* SceneDelegate.swift in Sources */,
+				844275BF2796EBC00014B610 /* majed.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
